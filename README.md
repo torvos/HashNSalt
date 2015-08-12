@@ -1,2 +1,2 @@
 # HashNSalt
-password hashing and salting
+Simple password hashing and salting, names HashNSalt in refrence to HackNSlash :)
